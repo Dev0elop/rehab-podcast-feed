@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Rehab Series Podcast</title>
+  <link>https://YourUsername.github.io/rehab-podcast-feed/</link>
+  <description>Your custom Rehab Series episodes from YouTube.</description>
+  <language>en-us</language>
+  <itunes:author>Custom Listener</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://example.com/rehab-artwork.jpg"/>
+  <itunes:category text="TV &amp; Film"/>
+
+  <!-- Episode 1 Example - Copy for 2-13, update title/url/length/guid/pubDate -->
+  <item>
+    <title>REHAB: PART ONE</title>
+    <description>Episode description here.</description>
+    <itunes:title>REHAB: PART ONE</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://dl.dropboxusercontent.com/s/YOUR_FOLDER_HASH/REHAB%EF%BC%9A%20PART%20ONE%20%5B0kqh7O7Yo9E%5D.mp3?raw=1" 
+               type="audio/mpeg" 
+               length="YOUR_FILE_SIZE_IN_BYTES"/>
+    <guid>https://youtube.com/watch?v=0kqh7O7Yo9E</guid>
+    <pubDate>Sat, 19 Feb 2026 22:00:00 EST</pubDate>
+    <itunes:duration>HH:MM:SS</itunes:duration>
+  </item>
+
+  <!-- Add 12 more <item> blocks like above for PART TWO to PART 13 -->
+
+</channel>
+</rss>

@@ -3,30 +3,142 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>Rehab Series Podcast</title>
-  <link>https://YourUsername.github.io/rehab-podcast-feed/</link>
-  <description>Your custom Rehab Series episodes from YouTube.</description>
+  <title>rehab</title>
+  <link>https://dev0elop.github.io/rehab-podcast-feed/</link>
+  <description>blargle zorp fizzle bing bong sploosh</description>
   <language>en-us</language>
-  <itunes:author>Custom Listener</itunes:author>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:image href="https://example.com/rehab-artwork.jpg"/>
-  <itunes:category text="TV &amp; Film"/>
+  <itunes:author>goblin</itunes:author>
+  <itunes:explicit>true</itunes:explicit>
 
-  <!-- Episode 1 Example - Copy for 2-13, update title/url/length/guid/pubDate -->
   <item>
-    <title>REHAB: PART ONE</title>
-    <description>Episode description here.</description>
-    <itunes:title>REHAB: PART ONE</itunes:title>
+    <title>rehab part 1</title>
+    <description>1985 phil donahue show where medellin cartel smuggler swallowed 88 cocaine condoms, burst mid-interview, triggered first live tv overdose ever broadcast</description>
+    <itunes:title>rehab part 1</itunes:title>
     <itunes:episodeType>full</itunes:episodeType>
-    <enclosure url="https://dl.dropboxusercontent.com/s/YOUR_FOLDER_HASH/REHAB%EF%BC%9A%20PART%20ONE%20%5B0kqh7O7Yo9E%5D.mp3?raw=1" 
-               type="audio/mpeg" 
-               length="YOUR_FILE_SIZE_IN_BYTES"/>
+    <enclosure url="https://www.dropbox.com/scl/fi/qu4aqxagz9tp2brswo7lp/Rehab-part-1.mp3?rlkey=e0fmmhego8umnpnnkx1wnch0y&st=abhhissw&raw=1" type="audio/mpeg" length="23830848"/>
     <guid>https://youtube.com/watch?v=0kqh7O7Yo9E</guid>
-    <pubDate>Sat, 19 Feb 2026 22:00:00 EST</pubDate>
-    <itunes:duration>HH:MM:SS</itunes:duration>
+    <pubDate>Sat, 20 Feb 2026 10:00:00 EST</pubDate>
   </item>
 
-  <!-- Add 12 more <item> blocks like above for PART TWO to PART 13 -->
+  <item>
+    <title>rehab part 2</title>
+    <description>philip seymour hoffman snorted 70 heroin bags in 24hrs before death—dealers mourned him as best customer, left $35k cash in his apartment</description>
+    <itunes:title>rehab part 2</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/smxh6424igzntziang3c8/Rehab-part-2.mp3?rlkey=pkw9fqxn53xi96hckbqb4ecee&st=v7rc95he&raw=1" type="audio/mpeg" length="13474880"/>
+    <guid>https://youtube.com/watch?v=cr3uqIplq3s</guid>
+    <pubDate>Sat, 20 Feb 2026 11:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 3</title>
+    <description>grateful dead's jerry garcia introduced wall street to heroin—1980s brokers smoked $1000/day china white between merger calls</description>
+    <itunes:title>rehab part 3</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/w0nas2cjj5pb306yye0av/Rehab-part-3.mp3?rlkey=z885zjst18vkrq79cji37rvuu&st=juqp26ug&raw=1" type="audio/mpeg" length="12014080"/>
+    <guid>https://youtube.com/watch?v=Ito5pNkF814</guid>
+    <pubDate>Sat, 20 Feb 2026 12:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 4</title>
+    <description>belushi died from "speedball"—cocaine + heroin mix. his dealer william smith did 15 years, emerged clean, now runs sobriety podcast</description>
+    <itunes:title>rehab part 4</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/w1gpfcnjr1njemn4zib6i/Rehab-part-4.mp3?rlkey=h6b48m8snt60adb760m80rtco&st=ut8n094p&raw=1" type="audio/mpeg" length="13153216"/>
+    <guid>https://youtube.com/watch?v=Yf_FMI3d4JE</guid>
+    <pubDate>Sat, 20 Feb 2026 13:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 5</title>
+    <description>90% of fentanyl now made in chinese chem labs, not mexico—single kilo yields 1 million lethal doses, sells for $30k on dark web</description>
+    <itunes:title>rehab part 5</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/qoe8yqd0zdwl57d7lxzxh/Rehab-part-5.mp3?rlkey=btguh0w7yf4homngczfr9tamd&st=aq25hecu&raw=1" type="audio/mpeg" length="11059200"/>
+    <guid>https://youtube.com/watch?v=GzQwZZ26_cU</guid>
+    <pubDate>Sat, 20 Feb 2026 14:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 6</title>
+    <description>river phoenix od'd outside viper room on heroin + cocaine + valium + marijuana cocktail. fergie was there, tried cpr 20 minutes</description>
+    <itunes:title>rehab part 6</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/9nvphexpvfv4ir5lr637k/Rehab-part-6.mp3?rlkey=oltot7a8yzhlk2yul33jytuv7&st=vdrpwrkm&raw=1" type="audio/mpeg" length="10685440"/>
+    <guid>https://youtube.com/watch?v=83KPozKZlr0</guid>
+    <pubDate>Sat, 20 Feb 2026 15:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 7</title>
+    <description>chris farley died with cocaine, weed, 4x morphine levels. his heroin spoon + lighter found untouched beside body, like final still life</description>
+    <itunes:title>rehab part 7</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/qt0wd16w81le6a2rw91le/Rehab-part-7.mp3?rlkey=qjc7ycvzsg2ptf4dxnf4wijq1&st=twq9x8b5&raw=1" type="audio/mpeg" length="10276032"/>
+    <guid>https://youtube.com/watch?v=Xw-FbTOSGeg</guid>
+    <pubDate>Sat, 20 Feb 2026 16:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 8</title>
+    <description>layne staley ate 3 grams heroin day before death—autopsy found teeth rotted through from neglect, spoon fused to floor from residue</description>
+    <itunes:title>rehab part 8</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/jeoc2yg5cypw51p5wbwd0/Rehab-part-8.mp3?rlkey=ma1m35x4qyqxuv02c1uztljie&st=5bznpz17&raw=1" type="audio/mpeg" length="8723456"/>
+    <guid>https://youtube.com/watch?v=tw-UbgcLyhI</guid>
+    <pubDate>Sat, 20 Feb 2026 17:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 9</title>
+    <description>mac miller died from fentanyl-laced cocaine he thought was pure. dealer "stephen walter" faces life—ran operation from prison smuggled via lawyers</description>
+    <itunes:title>rehab part 9</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/mok8n10axhnzs48ln4lqe/Rehab-part-9.mp3?rlkey=2zlnm8qhhy0rc7uhrx2y3ulsz&st=jrdy5saf&raw=1" type="audio/mpeg" length="9824512"/>
+    <guid>https://youtube.com/watch?v=F0LCnIfPAnw</guid>
+    <pubDate>Sat, 20 Feb 2026 18:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 10</title>
+    <description>judd from siesta key snorted 50 oxy pills day at peak—dealers delivered to his boat during filming, hid baggies in life jackets</description>
+    <itunes:title>rehab part 10</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/rrot6yip82nz3t9cue61u/Rehab-part-10.mp3?rlkey=wh5zfr5zq7ut04tv9z18svyk4&st=g7gxh3er&raw=1" type="audio/mpeg" length="8903680"/>
+    <guid>https://youtube.com/watch?v=J5dQBM-d8sU</guid>
+    <pubDate>Sat, 20 Feb 2026 19:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 11</title>
+    <description>heroin cuts 80% levamisole—vet dewormer destroys human immune systems. 2010 nyc outbreak left 70% users with necrotic flesh falling off faces</description>
+    <itunes:title>rehab part 11</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/247p7zcj03kxbwub8alt2/Rehab-part-11.mp3?rlkey=4g27um5wbk61ogzknvl253j7v&st=eitfxe9s&raw=1" type="audio/mpeg" length="8704512"/>
+    <guid>https://youtube.com/watch?v=VVbR-ukscCo</guid>
+    <pubDate>Sat, 20 Feb 2026 20:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 12</title>
+    <description>prince died from fentanyl patch diversion—patients sell 100mcg/hr patches for $50/street, equivalent 10mg pure heroin dose per patch</description>
+    <itunes:title>rehab part 12</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/xg4sep6slan9n3jrp67ap/Rehab-part-12.mp3?rlkey=1io0zpmt8ect8yucd2buujjr8&st=jjx18621&raw=1" type="audio/mpeg" length="8425984"/>
+    <guid>https://youtube.com/watch?v=3pOH32EVR4k</guid>
+    <pubDate>Sat, 20 Feb 2026 21:00:00 EST</pubDate>
+  </item>
+
+  <item>
+    <title>rehab part 13</title>
+    <description>hunter s thompson shot nurse's heart full speedball during "fear loathing" research—claimed it "activated her pineal gland" before she flatlined</description>
+    <itunes:title>rehab part 13</itunes:title>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://www.dropbox.com/scl/fi/mnw41kzdr9y4yhyvdv0yr/Rehab-part-13.mp3?rlkey=7eclro8vdmq5hrcl8jvoafsbw&st=9b90d2vr&raw=1" type="audio/mpeg" length="16724480"/>
+    <guid>https://youtube.com/watch?v=sd3GIns8e_s</guid>
+    <pubDate>Sat, 20 Feb 2026 22:00:00 EST</pubDate>
+  </item>
 
 </channel>
 </rss>
